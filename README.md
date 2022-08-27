@@ -1,2 +1,2 @@
 # Projeto Google glass
- Repositorio do site google glass
+ Repositório do site Google Glass
